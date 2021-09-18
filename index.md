@@ -7,7 +7,6 @@ Somos os idealizadores do projeto Pointer
 Chegue em um lugar e descubra tudo o que tem pra fazer: passeios, restaurantes, serviços...
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Baixe nosso app, na appstore e em breve na playstore
 
